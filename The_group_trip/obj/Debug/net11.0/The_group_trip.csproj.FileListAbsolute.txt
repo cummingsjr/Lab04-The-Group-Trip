@@ -1,0 +1,16 @@
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\bin\Debug\net11.0\The_group_trip.exe
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\bin\Debug\net11.0\The_group_trip.deps.json
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\bin\Debug\net11.0\The_group_trip.runtimeconfig.json
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\bin\Debug\net11.0\The_group_trip.runtimeconfig.dev.json
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\bin\Debug\net11.0\The_group_trip.dll
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\bin\Debug\net11.0\The_group_trip.pdb
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\The_group_trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\The_group_trip.AssemblyInfoInputs.cache
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\The_group_trip.AssemblyInfo.cs
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\The_group_trip.csproj.CoreCompileInputs.cache
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\The_group_trip.dll
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\refint\The_group_trip.dll
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\The_group_trip.pdb
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\The_group_trip.genruntimeconfig.cache
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\ref\The_group_trip.dll
+C:\Users\Pop73\CSCI1250\Lab04-The Group Trip\The_group_trip\obj\Debug\net11.0\The_grou.7F2F36D1.Up2Date
